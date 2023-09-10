@@ -6,6 +6,9 @@
 -sign up form
 -form validation
 -useref hook
+-firebase setup
+-deployment
+-create signup user account
 
 #Features
 -login/Sign Up
