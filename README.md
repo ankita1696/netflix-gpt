@@ -9,6 +9,11 @@
 -firebase setup
 -deployment
 -create signup user account
+-implement signin user api
+-created redux store with user slice
+implemented signout
+update profile api call
+
 
 #Features
 -login/Sign Up
